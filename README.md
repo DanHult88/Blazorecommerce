@@ -1,2 +1,1 @@
-# Blazorecommerce
-Blazorecommerce
+The BlazorWebShop project is a basic e-commerce web application built using Blazor, a framework from Microsoft for building interactive web UIs with C# instead of JavaScript. The project aims to showcase a simple online store where users can browse and manage products, as well as make purchases.
